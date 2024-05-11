@@ -49,7 +49,7 @@ MANIFEST
 *.manifest
 *.spec
 
-/seed.py
+seed.py/
 
 # Installer logs
 pip-log.txt
